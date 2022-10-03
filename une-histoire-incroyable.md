@@ -2,3 +2,4 @@ C'était le matin à Semnoz. Romain révait d'une journée comme les autres mais
 
 # Remerciements :
 Merci au générateur de texte en ligne, ma maman, mon papa, à la vie en somme.
+Mais un peu plus au générateur de texte.
