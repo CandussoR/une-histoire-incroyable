@@ -4,4 +4,6 @@ Ce fichier est né d'un défi fou pendant la formation **Concepteur et développ
 
 Il aura donc permis de s'exercer aux
 - commits,
-- logs...
+- logs,
+- tags,
+- résolutions de conflits entre modifications de repo distant et local.
